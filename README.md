@@ -1,5 +1,5 @@
 # Ai-HDL-MacroPad
-Application Specific Keyboard for the PRISM Lab at the University of Arizona
+Application Specific RP2040 based Keyboard for the PRISM Lab at the University of Arizona
 
 Below are 3D renders and schematics 
 
@@ -14,7 +14,7 @@ Below are 3D renders and schematics
 
 # TO DO
 
-1. Create/Determine software
+~~1. Create/Determine software~~ DONE
 2. Determine Key Caps
 3. Create a 3D model case
 4. Order and test
@@ -29,6 +29,11 @@ Below are 3D renders and schematics
 | Seeed Studio XIAO RP2040  | 1  | [SeedStudio](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html)     |
 | KTT Kang Ash Gray Tactile Switches  | 5  |  [KineticLabs](https://kineticlabs.com/switches/ktt/ktt-kang-ash-gray-switches)    |
 
+
+# Firmware
+
+This project will use the [KMK Firmware](https://github.com/KMKfw/kmk_firmware)
+KMK has its own license, please refer to their page for more details.
 
 # More Info
 

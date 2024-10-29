@@ -37,4 +37,4 @@ KMK has its own license, please refer to their page for more details.
 
 # More Info
 
-KTT switches can be switched out with any CherryMX-like switches. The XIAO RP2040 was used for accessibility (Doesn't require soldering an IC onto a board). KiCad files can be found in its folder. Production files can be found in Export Files.
+KTT switches can be replaced with any CherryMX-like switches. The XIAO RP2040 was used for accessibility (it doesn't require soldering an IC onto a board). KiCad files can be found in its folder. Production files can be found in Export Files. The hardware is designed to be used with CircuitPython for ease of use, but theoretically, the RP2040 can be flashed with QMK.

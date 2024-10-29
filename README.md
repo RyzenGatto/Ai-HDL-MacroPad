@@ -15,6 +15,7 @@ Below are 3D renders and schematics
 # TO DO
 
 ~~1. Create/Determine software~~ DONE
+
 2. Determine Key Caps
 3. Create a 3D model case
 4. Order and test
@@ -32,7 +33,7 @@ Below are 3D renders and schematics
 
 # Firmware
 
-This project will use the [KMK Firmware](https://github.com/KMKfw/kmk_firmware)
+This project will use the [KMK Firmware](https://github.com/KMKfw/kmk_firmware).
 KMK has its own license, please refer to their page for more details.
 
 # More Info

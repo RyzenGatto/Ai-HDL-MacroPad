@@ -19,6 +19,7 @@ Below are 3D renders and schematics
 3. Create a 3D model case
 4. Order and test
 5. Deployment
+6. Link footprints, 3D renders, and symbols
 
 
 # Materials
@@ -31,4 +32,4 @@ Below are 3D renders and schematics
 
 # More Info
 
-KTT switches can be switched out with any CherryMX like switches. The XIAO RP2040 was used for accessibility (Doesn't require soldering an IC onto a board). 
+KTT switches can be switched out with any CherryMX-like switches. The XIAO RP2040 was used for accessibility (Doesn't require soldering an IC onto a board). KiCad files can be found in its folder. Production files can be found in Export Files.

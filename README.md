@@ -17,10 +17,12 @@ Below are 3D renders and schematics
 ~~1. Create/Determine software~~ DONE
 
 2. Determine Key Caps
-3. Create a 3D model case
-4. Order and test
-5. Deployment
+3. Create a 3D model case (Clear plastic would be cool)
 6. Link footprints, 3D renders, and symbols
+7. Develop wifi version with battery + BT (maybe a screen? Extra version)
+8. Remove board, move to on PCB IC instead of the board
+9. Develop GUI for KMK
+10.  Order and test
 
 
 # Materials

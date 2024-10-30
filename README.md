@@ -14,15 +14,15 @@ Below are 3D renders and schematics
 
 # TO DO
 
-~~1. Create/Determine software~~ DONE
+~~1. Determine software~~ DONE
 
 2. Determine Key Caps
 3. Create a 3D model case (Clear plastic would be cool)
 6. Link footprints, 3D renders, and symbols
-7. Develop wifi version with battery + BT (maybe a screen? Extra version)
-8. Remove board, move to on PCB IC instead of the board
+7. Develop wifi version with battery + BT (maybe a screen? Extraversion)
+8. Remove board, move to on PCB IC instead of the board. Explore other IC's
 9. Develop GUI for KMK
-10.  Order and test
+10.  Test with Pico and breadboard 
 
 
 # Materials

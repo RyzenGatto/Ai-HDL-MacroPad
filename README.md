@@ -20,7 +20,6 @@ Below are 3D renders and schematics
 3. Create a 3D model case (Clear plastic would be cool)
 6. Link footprints, 3D renders, and symbols
 7. Develop wifi version with battery + BT (maybe a screen? Extraversion)
-8. Remove board, move to on PCB IC instead of the board. Explore other IC's
 9. Develop GUI for KMK
 10.  Test with Pico and breadboard 
 
@@ -36,7 +35,7 @@ Below are 3D renders and schematics
 # Firmware
 
 This project will use the [KMK Firmware](https://github.com/KMKfw/kmk_firmware).
-KMK has its own license, please refer to their page for more details.
+KMK has its own license, please refer to their page for more details. KMK has a GUI interface that another developer made.
 
 # More Info
 

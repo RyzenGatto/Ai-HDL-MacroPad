@@ -1,8 +1,9 @@
 # Ai-HDL-MacroPad
-Application Specific RP2040 based Keyboard for the PRISM Lab at the University of Arizona
+Application Specific nRF52840 based Keyboard for the PRISM Lab at the University of Arizona
 
 Below are 3D renders and schematics 
 
+## **Version 1**
 ![V1 0 PRISM Macro Pad_Front](https://github.com/user-attachments/assets/f874fd51-9041-4ddb-8332-def148d5e871)
 
 
@@ -11,17 +12,29 @@ Below are 3D renders and schematics
 
 ![V1 0 Schematic](https://github.com/user-attachments/assets/f58809fa-fde0-4ae0-97ad-ebc165ffb292)
 
+## **Version 1.5**
+
+![V1 5 MacroPad Front](https://github.com/user-attachments/assets/ca0ab8e7-101f-47dc-ba49-5738d19202a8)
+
+![V1 5 MacroPad Rear](https://github.com/user-attachments/assets/a3d8470d-8df4-4d5f-9a52-2fec045cd8ec)
+
+![V1 5 MacroPad PCB](https://github.com/user-attachments/assets/d8d3c3e0-46ed-4039-af1c-5b4f5980b7ad)
+
+![V1 5 Schematic](https://github.com/user-attachments/assets/f247798a-bfb1-4014-aebb-349ee96dda97)
+
+
 
 # TO DO
 
-~~1. Determine software~~ DONE
+1. Write software using KMK firmware
 
-2. Determine Key Caps
-3. Create a 3D model case (Clear plastic would be cool)
+~~2. Determine Key Caps~~ DONE
+
+3. Modify this 3D model for our needs (Coming soon)
 6. Link footprints, 3D renders, and symbols
-7. Develop wifi version with battery + BT (maybe a screen? Extraversion)
-9. Develop GUI for KMK
-10.  Test with Pico and breadboard 
+7. Develop wifi version with battery + BT 
+9. Incorporate [POG](https://github.com/JanLunge/pog)
+10.  PROTOTYPE!
 
 
 # Materials
@@ -37,6 +50,11 @@ Below are 3D renders and schematics
 This project will use the [KMK Firmware](https://github.com/KMKfw/kmk_firmware).
 KMK has its own license, please refer to their page for more details. KMK has a GUI interface that another developer made.
 
+This [battery management](https://github.com/Tjoms99/xiao_sense_nrf52840_battery_lib) software will be used to communicate battery life and charge status to the user.
+
 # More Info
 
-KTT switches can be replaced with any CherryMX-like switches. The XIAO RP2040 was used for accessibility (it doesn't require soldering an IC onto a board). KiCad files can be found in its folder. Production files can be found in Export Files. The hardware is designed to be used with CircuitPython for ease of use, but theoretically, the RP2040 can be flashed with QMK.
+KiCad files can be found in its folder. Production files can be found in Export Files. Version 1 is a super simple 5-key design for use with a XIAO RP2040. It does not have Bluetooth. It's also much cheaper. 
+Version 1.5 has BT and a lithium-ion battery and relies on the KMK firmware.
+
+This project is a team effort within the PRISM lab at the University of Arizona.

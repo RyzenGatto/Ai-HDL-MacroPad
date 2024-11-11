@@ -27,7 +27,7 @@ Below are 3D renders and schematics
 
 3. Modify this 3D model for our needs (Coming soon)
 6. Link footprints, 3D renders, and symbols
-7. Develop wifi version with battery + BT 
+~~7. Develop wifi version with battery + BT~~ DONE
 9. Incorporate [POG](https://github.com/JanLunge/pog)
 10.  PROTOTYPE!
 

@@ -14,13 +14,14 @@ Below are 3D renders and schematics
 
 ## **Version 1.5**
 
-![V1 5 MacroPad Front](https://github.com/user-attachments/assets/ca0ab8e7-101f-47dc-ba49-5738d19202a8)
+![V1 5 MacroPad Front](https://github.com/user-attachments/assets/74f60da3-1517-4a8a-8ceb-e1e1f64ffbd6)
 
-![V1 5 MacroPad Rear](https://github.com/user-attachments/assets/a3d8470d-8df4-4d5f-9a52-2fec045cd8ec)
+![V1 5 MacroPad Rear](https://github.com/user-attachments/assets/8f847f6d-fa53-45a6-b2bf-48b260a90974)
 
-![V1 5 MacroPad PCB](https://github.com/user-attachments/assets/d8d3c3e0-46ed-4039-af1c-5b4f5980b7ad)
 
-![V1 5 Schematic](https://github.com/user-attachments/assets/f247798a-bfb1-4014-aebb-349ee96dda97)
+![V1 5 MacroPad PCB](https://github.com/user-attachments/assets/81ba3f00-b3bb-43f3-b944-0d1d49ffd889)
+
+![V1 5 Schematic](https://github.com/user-attachments/assets/69e37617-77e7-41ba-a750-55ec24ab9309)
 
 
 
@@ -41,8 +42,11 @@ Below are 3D renders and schematics
 
 | Item  | Quantity | Link |
 | ------------- | ------------- | ---- |
-| Seeed Studio XIAO RP2040  | 1  | [SeedStudio](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html)     |
-| KTT Kang Ash Gray Tactile Switches  | 5  |  [KineticLabs](https://kineticlabs.com/switches/ktt/ktt-kang-ash-gray-switches)    |
+| seeed studio XIAO nRF52840  | 1  | [Mouser](https://www.mouser.com/ProductDetail/Seeed-Studio/102010448?qs=Znm5pLBrcAJ5g%252BWAkitg4w%3D%3D)     |
+| Cherry MX Switches  | 6  |  [Mouser](https://www.mouser.com/ProductDetail/CHERRY/MX1A-C1NW?qs=sGAEpiMZZMtFyPk3yBMYYJ6eFtqPPgccKDEfiw%252Brqds%3D)    |
+| Lithium-Ion Battery | 1 | [Option 1](https://www.digikey.com/en/products/detail/sparkfun-electronics/PRT-13851/6605199) [Option 2](https://www.digikey.com/en/products/detail/adafruit-industries-llc/258/5054544) |
+| Battery connector | 1 | [Mouser](https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-K-S/926626) |
+| Battery LED | 1 | [Mouser](https://www.digikey.com/en/products/detail/sparkfun-electronics/COM-16347/11630204)
 
 
 # Firmware
@@ -56,5 +60,9 @@ This [battery management](https://github.com/Tjoms99/xiao_sense_nrf52840_battery
 
 KiCad files can be found in its folder. Production files can be found in Export Files. Version 1 is a super simple 5-key design for use with a XIAO RP2040. It does not have Bluetooth. It's also much cheaper. 
 Version 1.5 has BT and a lithium-ion battery and relies on the KMK firmware.
+
+The screw size is M2 2.2mm.
+
+Working on a version with the microcontroller directly on the board.
 
 This project is a team effort within the PRISM lab at the University of Arizona.

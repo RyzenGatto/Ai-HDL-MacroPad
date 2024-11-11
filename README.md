@@ -3,15 +3,6 @@ Application Specific nRF52840 based Keyboard for the PRISM Lab at the University
 
 Below are 3D renders and schematics 
 
-## **Version 1**
-![V1 0 PRISM Macro Pad_Front](https://github.com/user-attachments/assets/f874fd51-9041-4ddb-8332-def148d5e871)
-
-
-![V1 0 PRISM Macro Pad_Rear](https://github.com/user-attachments/assets/7357fe59-80f8-425b-adbd-b3dc21ae9051)
-
-
-![V1 0 Schematic](https://github.com/user-attachments/assets/f58809fa-fde0-4ae0-97ad-ebc165ffb292)
-
 ## **Version 1.5**
 
 ![V1 5 MacroPad Front](https://github.com/user-attachments/assets/74f60da3-1517-4a8a-8ceb-e1e1f64ffbd6)
@@ -23,6 +14,9 @@ Below are 3D renders and schematics
 
 ![V1 5 Schematic](https://github.com/user-attachments/assets/69e37617-77e7-41ba-a750-55ec24ab9309)
 
+## Old Versions
+**Version 1**
+![V1 0 PRISM Macro Pad_Front](https://github.com/user-attachments/assets/f874fd51-9041-4ddb-8332-def148d5e871)
 
 
 # TO DO

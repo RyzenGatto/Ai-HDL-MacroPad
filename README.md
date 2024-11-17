@@ -1,5 +1,5 @@
 # Ai-HDL-MacroPad
-Application Specific nRF52840 based Keyboard for the PRISM Lab at the University of Arizona
+Application Specific nRF52840 OR RP2040 based Keyboards for the PRISM Lab at the University of Arizona
 
 Below are 3D renders and schematics 
 

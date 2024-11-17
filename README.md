@@ -3,6 +3,15 @@ Application Specific nRF52840 based Keyboard for the PRISM Lab at the University
 
 Below are 3D renders and schematics 
 
+## In Development
+This new version is in development now. It does not rely on a development board and any respectable pick and place service can produce it.
+No development files are available. They will be when the design is refined.
+
+![image](https://github.com/user-attachments/assets/b9991299-894b-42c8-9ca2-e876330ae863)
+
+![image](https://github.com/user-attachments/assets/c8f49f50-a69e-4d2c-9c8e-240bbeac5f14)
+
+
 ## **Version 1.5**
 
 ![V1 5 MacroPad Front](https://github.com/user-attachments/assets/74f60da3-1517-4a8a-8ceb-e1e1f64ffbd6)

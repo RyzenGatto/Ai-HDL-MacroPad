@@ -1,7 +1,7 @@
 # Ai-HDL-MacroPad
 Application Specific nRF52840 OR RP2040 based Keyboards for the PRISM Lab at the University of Arizona
 
-Below are 3D renders and schematics 
+Below are 3D renders. Schematic for the latest version is available in the Repo.
 
 ## Version 2
 Fully integrated Macro Design. This is the test PCB with a few GPIO pins connected to some headers + the RP2040 RUN pin
@@ -19,7 +19,7 @@ This is the cheapest version. It can be assembled by hand, no BOM or pick and pl
 ![V1 0 PRISM Macro Pad_Front](https://github.com/user-attachments/assets/f874fd51-9041-4ddb-8332-def148d5e871)
 
 **Version 1.5**
-Basically V1 but with BLE and a battery.
+Basically V1 but with BLE and a battery and M2 2.2mm screws.
 ![V1 5 MacroPad Front](https://github.com/user-attachments/assets/74f60da3-1517-4a8a-8ceb-e1e1f64ffbd6)
 
 ![V1 5 MacroPad Rear](https://github.com/user-attachments/assets/8f847f6d-fa53-45a6-b2bf-48b260a90974)
@@ -59,6 +59,7 @@ This [battery management](https://github.com/Tjoms99/xiao_sense_nrf52840_battery
 KiCad files can be found in its folder. Production files can be found in Export Files. Version 1 is a super simple 5-key design for use with a XIAO RP2040. It does not have Bluetooth. It's also much cheaper. 
 Version 1.5 has BT and a lithium-ion battery and relies on the KMK firmware.
 
-The screw size is M2 2.2mm.
+
+
 
 Software by [this guy](https://github.com/ernesto-martinez1)

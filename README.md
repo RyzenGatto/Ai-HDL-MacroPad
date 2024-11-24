@@ -3,13 +3,13 @@ Application Specific nRF52840 OR RP2040 based Keyboards for the PRISM Lab at the
 
 Below are 3D renders and schematics 
 
-## In Development
-This new version is in development now. It does not rely on a development board and any respectable pick and place service can produce it.
-No development files are available. They will be when the design is refined.
+## Version 2
+Fully integrated Macro Design. This is the test PCB with a few GPIO pins connected to some headers + the RP2040 RUN pin
 
-![image](https://github.com/user-attachments/assets/b9991299-894b-42c8-9ca2-e876330ae863)
+![image](https://github.com/user-attachments/assets/e7061f74-a7d0-455c-bbb5-b828c55c7cb8)
 
-![image](https://github.com/user-attachments/assets/c8f49f50-a69e-4d2c-9c8e-240bbeac5f14)
+
+![image](https://github.com/user-attachments/assets/9c2a6119-990e-4c3f-8349-464e670b56a3)
 
 
 ## **Version 1.5**
@@ -33,12 +33,9 @@ No development files are available. They will be when the design is refined.
 1. Write software using KMK firmware
 
 ~~2. Determine Key Caps~~ DONE
-
-3. Modify this 3D model for our needs (Coming soon)
-6. Link footprints, 3D renders, and symbols
-~~7. Develop wifi version with battery + BT~~ DONE
-9. Incorporate [POG](https://github.com/JanLunge/pog)
-10.  PROTOTYPE!
+3. Link footprints, 3D renders, and symbols
+~~4. Develop wifi version with battery + BT~~ DONE
+6.  PROTOTYPE!
 
 
 # Materials
@@ -66,6 +63,4 @@ Version 1.5 has BT and a lithium-ion battery and relies on the KMK firmware.
 
 The screw size is M2 2.2mm.
 
-Working on a version with the microcontroller directly on the board.
-
-This project is a team effort within the PRISM lab at the University of Arizona.
+Software by [this guy](https://github.com/ernesto-martinez1)

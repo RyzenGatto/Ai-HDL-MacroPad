@@ -12,21 +12,19 @@ Fully integrated Macro Design. This is the test PCB with a few GPIO pins connect
 ![image](https://github.com/user-attachments/assets/9c2a6119-990e-4c3f-8349-464e670b56a3)
 
 
-## **Version 1.5**
 
+## Old Versions
+**Version 1**
+This is the cheapest version. It can be assembled by hand, no BOM or pick and place needed.
+![V1 0 PRISM Macro Pad_Front](https://github.com/user-attachments/assets/f874fd51-9041-4ddb-8332-def148d5e871)
+
+**Version 1.5**
+Basically V1 but with BLE and a battery.
 ![V1 5 MacroPad Front](https://github.com/user-attachments/assets/74f60da3-1517-4a8a-8ceb-e1e1f64ffbd6)
 
 ![V1 5 MacroPad Rear](https://github.com/user-attachments/assets/8f847f6d-fa53-45a6-b2bf-48b260a90974)
 
-
-![V1 5 MacroPad PCB](https://github.com/user-attachments/assets/81ba3f00-b3bb-43f3-b944-0d1d49ffd889)
-
 ![V1 5 Schematic](https://github.com/user-attachments/assets/69e37617-77e7-41ba-a750-55ec24ab9309)
-
-## Old Versions
-**Version 1**
-![V1 0 PRISM Macro Pad_Front](https://github.com/user-attachments/assets/f874fd51-9041-4ddb-8332-def148d5e871)
-
 
 # TO DO
 
@@ -39,7 +37,7 @@ Fully integrated Macro Design. This is the test PCB with a few GPIO pins connect
 
 
 # Materials
-
+ONLY FOR V1.5
 | Item  | Quantity | Link |
 | ------------- | ------------- | ---- |
 | seeed studio XIAO nRF52840  | 1  | [Mouser](https://www.mouser.com/ProductDetail/Seeed-Studio/102010448?qs=Znm5pLBrcAJ5g%252BWAkitg4w%3D%3D)     |

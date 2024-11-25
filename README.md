@@ -3,13 +3,21 @@ Application Specific nRF52840 OR RP2040 based Keyboards for the PRISM Lab at the
 
 Below are 3D renders. Schematic for the latest version is available in the Repo.
 
-## Version 2
-Fully integrated Macro Design. This is the test PCB with a few GPIO pins connected to some headers + the RP2040 RUN pin
+NOTE: If you want to adapt this to your own project with more keys, get familiar with KiCad and learn keyboard matrices (KMK has a good guide in their repo). 
 
-![image](https://github.com/user-attachments/assets/e7061f74-a7d0-455c-bbb5-b828c55c7cb8)
+## Info
+
+KiCad files can be found in its folder. Production files can be found in Export Files. Version 1 is a super simple 5-key design for use with a XIAO RP2040. It does not have Bluetooth. It's also much cheaper. 
+Version 1.5 has BT and a lithium-ion battery and relies on the KMK firmware.
+
+## Version 2.1
+Fully integrated Macro Design. This is the test PCB with a few GPIO pins connected to some headers + the RP2040 RUN pin. USB Boot is now connected to SW6 (bottom right key) and keys now connect to ground. The voltage regulator was also switched out one recommended by the RP foundation.
+
+![image](https://github.com/user-attachments/assets/d026e063-2b03-4b59-b73a-73c3f55f467e)
 
 
-![image](https://github.com/user-attachments/assets/9c2a6119-990e-4c3f-8349-464e670b56a3)
+
+![image](https://github.com/user-attachments/assets/0e7d89dc-932e-4602-9abc-9b1f4c32a8f4)
 
 
 
@@ -53,11 +61,6 @@ This project will use the [KMK Firmware](https://github.com/KMKfw/kmk_firmware).
 KMK has its own license, please refer to their page for more details. KMK has a GUI interface that another developer made.
 
 This [battery management](https://github.com/Tjoms99/xiao_sense_nrf52840_battery_lib) software will be used to communicate battery life and charge status to the user.
-
-# More Info
-
-KiCad files can be found in its folder. Production files can be found in Export Files. Version 1 is a super simple 5-key design for use with a XIAO RP2040. It does not have Bluetooth. It's also much cheaper. 
-Version 1.5 has BT and a lithium-ion battery and relies on the KMK firmware.
 
 
 

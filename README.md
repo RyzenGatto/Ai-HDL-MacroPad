@@ -13,11 +13,11 @@ Version 1.5 has BT and a lithium-ion battery and relies on the KMK firmware.
 ## Version 2.1
 Fully integrated Macro Design. This is the test PCB with a few GPIO pins connected to some headers + the RP2040 RUN pin. USB Boot is now connected to SW6 (bottom right key) and keys now connect to ground. The voltage regulator was also switched out one recommended by the RP foundation.
 
-![image](https://github.com/user-attachments/assets/d026e063-2b03-4b59-b73a-73c3f55f467e)
+![image](https://github.com/user-attachments/assets/35f3860b-f626-47bc-a18d-d1393627ed8c)
 
 
+![image](https://github.com/user-attachments/assets/0f538f73-ee75-4cbd-8b9e-13c9bf0b029e)
 
-![image](https://github.com/user-attachments/assets/0e7d89dc-932e-4602-9abc-9b1f4c32a8f4)
 
 
 

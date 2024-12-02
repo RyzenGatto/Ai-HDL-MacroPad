@@ -8925,7 +8925,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL10A106MQ8NNNC_Spec.pdf"
 			(at 200.66 76.2 0)
 			(effects
 				(font
@@ -8934,7 +8934,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized Capacitor"
+		(property "Description" "CAP CER 10UF 6.3V X5R 0603"
 			(at 200.66 76.2 0)
 			(effects
 				(font
@@ -8970,7 +8970,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 200.66 76.2 0)
 			(effects
 				(font
@@ -8979,7 +8979,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "CL10A106MQ8NNNC"
 			(at 200.66 76.2 0)
 			(effects
 				(font
@@ -9037,7 +9037,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0402_1005Metric"
 			(at 233.299 72.898 0)
 			(effects
 				(font
@@ -9046,7 +9046,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf"
 			(at 232.918 68.58 0)
 			(effects
 				(font
@@ -9055,7 +9055,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "4.7kΩ, 1/4W Resistor"
+		(property "Description" "RES SMD 5.1K OHM 0.1% 1/16W 0402"
 			(at 232.41 68.58 0)
 			(effects
 				(font
@@ -9091,7 +9091,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Panasonic Electronic Components"
 			(at 232.41 68.58 0)
 			(effects
 				(font
@@ -9100,7 +9100,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "ERA-2AEB512X"
 			(at 232.41 68.58 0)
 			(effects
 				(font
@@ -9159,7 +9159,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0402_1005Metric"
 			(at 187.579 57.658 0)
 			(effects
 				(font
@@ -9168,7 +9168,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
 			(at 187.198 53.34 0)
 			(effects
 				(font
@@ -9177,7 +9177,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "1/4W Resistor"
+		(property "Description" "RES SMD 27 OHM 1% 1/10W 0402"
 			(at 186.69 53.34 0)
 			(effects
 				(font
@@ -9213,7 +9213,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Panasonic Electronic Components"
 			(at 186.69 53.34 0)
 			(effects
 				(font
@@ -9222,7 +9222,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "ERJ-2RKF27R0X"
 			(at 186.69 53.34 0)
 			(effects
 				(font
@@ -9303,7 +9303,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES SMD 1K OHM 1% 1/10W 0402"
 			(at 88.9 133.35 0)
 			(effects
 				(font
@@ -9339,7 +9339,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Panasonic Electronic Components"
 			(at 88.9 133.35 0)
 			(effects
 				(font
@@ -9348,7 +9348,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "ERJ-2RKF1001X"
 			(at 88.9 133.35 0)
 			(effects
 				(font
@@ -9427,7 +9427,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC FLASH 128MBIT SPI/QUAD 8SOIC"
 			(at 40.64 119.38 0)
 			(effects
 				(font
@@ -9463,7 +9463,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Winbond Electronics"
 			(at 40.64 119.38 0)
 			(effects
 				(font
@@ -9472,7 +9472,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "W25Q128JVSIQ"
 			(at 40.64 119.38 0)
 			(effects
 				(font
@@ -9684,7 +9684,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL10A106MQ8NNNC_Spec.pdf"
 			(at 231.14 76.2 0)
 			(effects
 				(font
@@ -9693,7 +9693,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized Capacitor"
+		(property "Description" "CAP CER 10UF 6.3V X5R 0603"
 			(at 231.14 76.2 0)
 			(effects
 				(font
@@ -9729,7 +9729,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 231.14 76.2 0)
 			(effects
 				(font
@@ -9738,7 +9738,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "CL10A106MQ8NNNC"
 			(at 231.14 76.2 0)
 			(effects
 				(font
@@ -9943,7 +9943,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES SMD 1K OHM 1% 1/10W 0402"
 			(at 40.64 142.24 0)
 			(effects
 				(font
@@ -9979,7 +9979,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Panasonic Electronic Components"
 			(at 40.64 142.24 0)
 			(effects
 				(font
@@ -9988,7 +9988,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "ERJ-2RKF1001X"
 			(at 40.64 142.24 0)
 			(effects
 				(font
@@ -10056,7 +10056,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/885012006003.pdf"
 			(at 83.82 100.33 0)
 			(effects
 				(font
@@ -10065,7 +10065,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized Capacitor"
+		(property "Description" "CAP CER 15PF 10V C0G/NP0 0603"
 			(at 83.82 100.33 0)
 			(effects
 				(font
@@ -10101,7 +10101,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Würth Elektronik"
 			(at 83.82 100.33 0)
 			(effects
 				(font
@@ -10110,7 +10110,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "885012006003"
 			(at 83.82 100.33 0)
 			(effects
 				(font
@@ -10169,7 +10169,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_2x22_P1.00mm_Vertical"
+		(property "Footprint" ""
 			(at 149.86 187.96 0)
 			(effects
 				(font
@@ -10187,7 +10187,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Pin Header female with pin space 2.54mm. Pin Count - 20"
+		(property "Description" "DNF"
 			(at 116.84 185.42 0)
 			(effects
 				(font
@@ -10324,7 +10324,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/71/EN_CHERRY_MX_CLEAR-1608289.pdf"
 			(at 212.09 113.03 0)
 			(effects
 				(font
@@ -10333,7 +10333,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Common 6mmx6mm Push Button"
+		(property "Description" "SWITCH PUSH SPST-NO 0.01A 12V"
 			(at 212.09 113.03 0)
 			(effects
 				(font
@@ -10369,7 +10369,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Cherry Americas LLC"
 			(at 212.09 113.03 0)
 			(effects
 				(font
@@ -10378,7 +10378,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "MX1A-C1NW"
 			(at 212.09 113.03 0)
 			(effects
 				(font
@@ -10446,7 +10446,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/71/EN_CHERRY_MX_CLEAR-1608289.pdf"
 			(at 256.54 124.46 0)
 			(effects
 				(font
@@ -10455,7 +10455,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Common 6mmx6mm Push Button"
+		(property "Description" "SWITCH PUSH SPST-NO 0.01A 12V"
 			(at 256.54 124.46 0)
 			(effects
 				(font
@@ -10491,7 +10491,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Cherry Americas LLC"
 			(at 256.54 124.46 0)
 			(effects
 				(font
@@ -10500,7 +10500,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "MX1A-C1NW"
 			(at 256.54 124.46 0)
 			(effects
 				(font
@@ -10570,7 +10570,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/3584/CL10B105KP8NNNC_Spec.pdf"
 			(at 158.75 45.72 0)
 			(effects
 				(font
@@ -10615,7 +10615,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 158.75 45.72 0)
 			(effects
 				(font
@@ -10624,7 +10624,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "CL10B105KP8NNNC"
 			(at 158.75 45.72 0)
 			(effects
 				(font
@@ -10674,7 +10674,7 @@
 				)
 			)
 		)
-		(property "Value" "NCP51460SN33"
+		(property "Value" "NCP1117LPST33T3G"
 			(at 214.63 81.28 0)
 			(effects
 				(font
@@ -10699,7 +10699,7 @@
 				)
 			)
 		)
-		(property "Description" "Precision 3.3V Ref 1% 18PPM 28Vmax 20mAmax"
+		(property "Description" "IC REG LINEAR 3.3V 1A SOT223"
 			(at 214.63 72.39 0)
 			(effects
 				(font
@@ -10718,7 +10718,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "ON Semiconductor"
+		(property "Manufacturer" "onsemi"
 			(at 217.17 62.992 0)
 			(effects
 				(font
@@ -10728,7 +10728,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "NCP51460SN33T1G"
+		(property "Part Number" "NCP1117LPST33T3G"
 			(at 217.17 61.468 0)
 			(effects
 				(font
@@ -10930,7 +10930,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0402_1005Metric"
 			(at 187.579 65.278 0)
 			(effects
 				(font
@@ -10939,7 +10939,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
 			(at 187.198 60.96 0)
 			(effects
 				(font
@@ -10948,7 +10948,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "1/4W Resistor"
+		(property "Description" "RES SMD 27 OHM 1% 1/10W 0402"
 			(at 186.69 60.96 0)
 			(effects
 				(font
@@ -10984,7 +10984,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Panasonic Electronic Components"
 			(at 186.69 60.96 0)
 			(effects
 				(font
@@ -10993,7 +10993,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "ERJ-2RKF27R0X"
 			(at 186.69 60.96 0)
 			(effects
 				(font
@@ -11063,7 +11063,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/885012006003.pdf"
 			(at 83.82 144.78 0)
 			(effects
 				(font
@@ -11072,7 +11072,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized Capacitor"
+		(property "Description" "CAP CER 15PF 10V C0G/NP0 0603"
 			(at 83.82 144.78 0)
 			(effects
 				(font
@@ -11108,7 +11108,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Würth Elektronik"
 			(at 83.82 144.78 0)
 			(effects
 				(font
@@ -11117,7 +11117,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "885012006003"
 			(at 83.82 144.78 0)
 			(effects
 				(font
@@ -11435,7 +11435,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/3584/CL10B105KP8NNNC_Spec.pdf"
 			(at 91.44 48.26 0)
 			(effects
 				(font
@@ -11480,7 +11480,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 91.44 48.26 0)
 			(effects
 				(font
@@ -11489,7 +11489,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "CL10B105KP8NNNC"
 			(at 91.44 48.26 0)
 			(effects
 				(font
@@ -11557,7 +11557,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/71/EN_CHERRY_MX_CLEAR-1608289.pdf"
 			(at 212.09 135.89 0)
 			(effects
 				(font
@@ -11566,7 +11566,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Common 6mmx6mm Push Button"
+		(property "Description" "SWITCH PUSH SPST-NO 0.01A 12V"
 			(at 212.09 135.89 0)
 			(effects
 				(font
@@ -11602,7 +11602,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Cherry Americas LLC"
 			(at 212.09 135.89 0)
 			(effects
 				(font
@@ -11611,7 +11611,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "MX1A-C1NW"
 			(at 212.09 135.89 0)
 			(effects
 				(font
@@ -11679,7 +11679,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/71/EN_CHERRY_MX_CLEAR-1608289.pdf"
 			(at 256.54 113.03 0)
 			(effects
 				(font
@@ -11688,7 +11688,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Common 6mmx6mm Push Button"
+		(property "Description" "SWITCH PUSH SPST-NO 0.01A 12V"
 			(at 256.54 113.03 0)
 			(effects
 				(font
@@ -11724,7 +11724,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Cherry Americas LLC"
 			(at 256.54 113.03 0)
 			(effects
 				(font
@@ -11733,7 +11733,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "MX1A-C1NW"
 			(at 256.54 113.03 0)
 			(effects
 				(font
@@ -11937,7 +11937,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "12 MHz ±30ppm Crystal 10pF 50 Ohms 4-SMD, No Lead"
+		(property "Description" "CRYSTAL 12.0000MHZ 10PF SMD"
 			(at 81.28 104.14 0)
 			(effects
 				(font
@@ -11973,7 +11973,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "  Abracon LLC"
+		(property "Manufacturer" "Abracon LLC"
 			(at 81.28 104.14 0)
 			(effects
 				(font
@@ -12058,7 +12058,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf"
 			(at 105.41 101.6 0)
 			(effects
 				(font
@@ -12067,7 +12067,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "ARM® Cortex®-M0+ - Microcontroller IC 32-Bit Dual-Core 133MHz External Program Memory 56-QFN (7x7)"
 			(at 124.46 101.6 0)
 			(effects
 				(font
@@ -12103,7 +12103,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Raspberry Pi"
 			(at 124.46 101.6 0)
 			(effects
 				(font
@@ -12112,7 +12112,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "SC0914(13)"
 			(at 124.46 101.6 0)
 			(effects
 				(font
@@ -12468,7 +12468,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2204071530_G-Switch-GT-USB-7010ASV_C2988369.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2411221125_G-Switch-GT-USB-7010ASV_C2988369.pdf"
 			(at 254 58.42 0)
 			(effects
 				(font
@@ -12477,7 +12477,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "USB 2.0 3A 1 Horizontal attachment 16P Female -40℃~+85℃ Type-C SMD USB Connectors ROHS"
 			(at 257.81 58.42 0)
 			(effects
 				(font
@@ -12522,7 +12522,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" " G-Switch"
 			(at 257.81 58.42 0)
 			(effects
 				(font
@@ -12531,7 +12531,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "GT-USB-7010ASV "
 			(at 257.81 58.42 0)
 			(effects
 				(font
@@ -12758,7 +12758,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0402_1005Metric"
 			(at 233.299 70.358 0)
 			(effects
 				(font
@@ -12767,7 +12767,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf"
 			(at 232.918 66.04 0)
 			(effects
 				(font
@@ -12776,7 +12776,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "4.7kΩ, 1/4W Resistor"
+		(property "Description" "RES SMD 5.1K OHM 0.1% 1/16W 0402"
 			(at 232.41 66.04 0)
 			(effects
 				(font
@@ -12812,7 +12812,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Panasonic Electronic Components"
 			(at 232.41 66.04 0)
 			(effects
 				(font
@@ -12821,7 +12821,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "ERA-2AEB512X"
 			(at 232.41 66.04 0)
 			(effects
 				(font
@@ -13137,7 +13137,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/71/EN_CHERRY_MX_CLEAR-1608289.pdf"
 			(at 212.09 124.46 0)
 			(effects
 				(font
@@ -13146,7 +13146,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Common 6mmx6mm Push Button"
+		(property "Description" "SWITCH PUSH SPST-NO 0.01A 12V"
 			(at 212.09 124.46 0)
 			(effects
 				(font
@@ -13182,7 +13182,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Cherry Americas LLC"
 			(at 212.09 124.46 0)
 			(effects
 				(font
@@ -13191,7 +13191,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "MX1A-C1NW"
 			(at 212.09 124.46 0)
 			(effects
 				(font

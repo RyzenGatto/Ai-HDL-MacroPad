@@ -10,13 +10,12 @@ NOTE: If you want to adapt this to your own project with more keys, get familiar
 KiCad files can be found in its folder. Production files can be found in Export Files. Version 1 is a super simple 5-key design for use with a XIAO RP2040. It does not have Bluetooth. It's also much cheaper. 
 Version 1.5 has BT and a lithium-ion battery and relies on the KMK firmware.
 
-## Version 2.1
-Fully integrated Macro Design. This is the test PCB with a few GPIO pins connected to some headers + the RP2040 RUN pin. USB Boot is now connected to SW6 (bottom right key) and keys now connect to ground. The voltage regulator was also switched out one recommended by the RP foundation.
+## Version 2.2
+Fully integrated Macro Design. This is the test PCB with a few GPIO pins connected to some headers + the RP2040 RUN pin. USB Boot is now connected to SW6 (bottom right key) and keys now connect to ground. The voltage regulator was also switched out one recommended by the RP foundation. A final version that uses curved tracks to reduce track impedance and degradation overtime is ready, pending testing. 
 
-![image](https://github.com/user-attachments/assets/35f3860b-f626-47bc-a18d-d1393627ed8c)
+![2 xx Front](https://github.com/user-attachments/assets/a0379b9e-45d4-494c-a37f-6cfbc64858e7)
 
-
-![image](https://github.com/user-attachments/assets/0f538f73-ee75-4cbd-8b9e-13c9bf0b029e)
+![2 xx back](https://github.com/user-attachments/assets/d9661f9c-5e69-4506-962d-fb985575b9a9)
 
 
 
@@ -39,9 +38,8 @@ Basically V1 but with BLE and a battery and M2 2.2mm screws.
 1. Write software using KMK firmware
 
 ~~2. Determine Key Caps~~ DONE
-3. Link footprints, 3D renders, and symbols
-~~4. Develop wifi version with battery + BT~~ DONE
-6.  PROTOTYPE!
+~~3. Develop wifi version with battery + BT~~ DONE
+4.  PROTOTYPE!
 
 
 # Materials
@@ -54,6 +52,7 @@ ONLY FOR V1.5
 | Battery connector | 1 | [Mouser](https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-K-S/926626) |
 | Battery LED | 1 | [Mouser](https://www.digikey.com/en/products/detail/sparkfun-electronics/COM-16347/11630204)
 
+2.xx Materials are available in the BOM of the KiCad Files.
 
 # Firmware
 

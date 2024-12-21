@@ -38,7 +38,9 @@ Basically V1 but with BLE and a battery and M2 2.2mm screws.
 1. Write software using KMK firmware
 
 ~~2. Determine Key Caps~~ DONE
+
 ~~3. Develop wifi version with battery + BT~~ DONE
+
 4.  PROTOTYPE!
 
 

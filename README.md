@@ -10,13 +10,13 @@ NOTE: If you want to adapt this to your own project with more keys, get familiar
 KiCad files can be found in its folder. Production files can be found in Export Files. Version 1 is a super simple 5-key design for use with a XIAO RP2040. It does not have Bluetooth. It's also much cheaper. 
 Version 1.5 has BT and a lithium-ion battery and relies on the KMK firmware.
 
-## Version 2.2
-Fully integrated Macro Design. This is the test PCB with a few GPIO pins connected to some headers + the RP2040 RUN pin. USB Boot is now connected to SW6 (bottom right key) and keys now connect to ground. The voltage regulator was also switched out one recommended by the RP foundation. A final version that uses curved tracks to reduce track impedance and degradation overtime is ready, pending testing. 
+## Version 2.4 
+Fully integrated Macro Design. This design has been optimized for long-term reliability and has been simplified. 
 
-![2 xx Front](https://github.com/user-attachments/assets/a0379b9e-45d4-494c-a37f-6cfbc64858e7)
 
-![2 xx back](https://github.com/user-attachments/assets/d9661f9c-5e69-4506-962d-fb985575b9a9)
+![image](https://github.com/user-attachments/assets/1a8a2b9d-948f-49f5-b890-152c39657a80)
 
+![image](https://github.com/user-attachments/assets/e13b1af5-5f3b-42fd-9767-627fe8d97e1c)
 
 
 
@@ -32,6 +32,11 @@ Basically V1 but with BLE and a battery and M2 2.2mm screws.
 ![V1 5 MacroPad Rear](https://github.com/user-attachments/assets/8f847f6d-fa53-45a6-b2bf-48b260a90974)
 
 ![V1 5 Schematic](https://github.com/user-attachments/assets/69e37617-77e7-41ba-a750-55ec24ab9309)
+
+**Version 2.3 (Test PCB)**
+![2 xx Front](https://github.com/user-attachments/assets/a0379b9e-45d4-494c-a37f-6cfbc64858e7)
+
+![2 xx back](https://github.com/user-attachments/assets/d9661f9c-5e69-4506-962d-fb985575b9a9)
 
 # TO DO
 

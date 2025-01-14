@@ -11,7 +11,7 @@ KiCad files can be found in its folder. Production files can be found in Export 
 Version 1.5 has BT and a lithium-ion battery and relies on the KMK firmware.
 
 ## Version 2.4 
-Fully integrated Macro Design. This design has been optimized for long-term reliability and has been simplified. 
+Fully integrated Macro Design. This design has been optimized for long-term reliability and has been simplified. A test PCB is accessible in the V2 kicad folders
 
 
 ![image](https://github.com/user-attachments/assets/1a8a2b9d-948f-49f5-b890-152c39657a80)
